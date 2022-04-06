@@ -1,6 +1,6 @@
 # RandomUser
 
-This is Version 1 of randomuser. I am learning react and this was my practice, there is another repo that is version 2 where I use components and imporve struture. 
+This is Version 1 of randomuser. I am learning react and this was my practice, there is another repo that is version 2 where I use components and imporve struture. Visit version 2: https://github.com/KylaMakPack/RandomUser_v2
 
 1. Follow these steps to set up react: https://www.tutorialspoint.com/reactjs/reactjs_environment_setup.htm
 2. Fetch the data: https://remotestack.io/react-js-get-data-with-fetch-api-and-rest-api-tutorial/#:~:text=The%20fetch%20method%20invokes%20requests,in%20functional%20component%20from%20scratch.
